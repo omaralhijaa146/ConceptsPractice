@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPIndexers", "OOPIndexers\OOPIndexers.csproj", "{A806E442-04E6-4B3F-B325-E7112EEB369C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPPartialTypes", "OOPPartialTypes\OOPPartialTypes.csproj", "{090E9926-5344-4ECD-987E-54616A6066B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A806E442-04E6-4B3F-B325-E7112EEB369C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A806E442-04E6-4B3F-B325-E7112EEB369C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A806E442-04E6-4B3F-B325-E7112EEB369C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A806E442-04E6-4B3F-B325-E7112EEB369C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090E9926-5344-4ECD-987E-54616A6066B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090E9926-5344-4ECD-987E-54616A6066B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090E9926-5344-4ECD-987E-54616A6066B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090E9926-5344-4ECD-987E-54616A6066B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\bin\Debug\net8.0\OOPPartialTypes.exe
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\bin\Debug\net8.0\OOPPartialTypes.deps.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\bin\Debug\net8.0\OOPPartialTypes.runtimeconfig.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\bin\Debug\net8.0\OOPPartialTypes.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\bin\Debug\net8.0\OOPPartialTypes.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\OOPPartialTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\OOPPartialTypes.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\OOPPartialTypes.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\OOPPartialTypes.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\OOPPartialTypes.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\refint\OOPPartialTypes.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\OOPPartialTypes.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\OOPPartialTypes.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\ref\OOPPartialTypes.dll
