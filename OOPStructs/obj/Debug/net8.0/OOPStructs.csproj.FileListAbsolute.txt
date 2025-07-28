@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\bin\Debug\net8.0\OOPStructs.exe
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\bin\Debug\net8.0\OOPStructs.deps.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\bin\Debug\net8.0\OOPStructs.runtimeconfig.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\bin\Debug\net8.0\OOPStructs.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\bin\Debug\net8.0\OOPStructs.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\obj\Debug\net8.0\OOPStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\obj\Debug\net8.0\OOPStructs.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\obj\Debug\net8.0\OOPStructs.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\obj\Debug\net8.0\OOPStructs.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\obj\Debug\net8.0\OOPStructs.sourcelink.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\obj\Debug\net8.0\OOPStructs.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\obj\Debug\net8.0\refint\OOPStructs.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\obj\Debug\net8.0\OOPStructs.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\obj\Debug\net8.0\OOPStructs.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStructs\obj\Debug\net8.0\ref\OOPStructs.dll

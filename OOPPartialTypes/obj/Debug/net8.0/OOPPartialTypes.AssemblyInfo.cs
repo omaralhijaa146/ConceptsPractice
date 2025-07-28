@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOPPartialTypes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd86698e39c388925f68f0f27fd2cf7e9c4f4162")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOPPartialTypes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOPPartialTypes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

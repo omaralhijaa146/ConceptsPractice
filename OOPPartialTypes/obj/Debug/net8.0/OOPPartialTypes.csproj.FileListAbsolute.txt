@@ -12,3 +12,4 @@ C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\re
 C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\OOPPartialTypes.pdb
 C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\OOPPartialTypes.genruntimeconfig.cache
 C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\ref\OOPPartialTypes.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPPartialTypes\obj\Debug\net8.0\OOPPartialTypes.sourcelink.json
