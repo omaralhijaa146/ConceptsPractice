@@ -62,7 +62,7 @@ class Program
         
         //Covariance and Contravariance
 
-        var stack = new Stack<User>(new List<User>()
+        /*var stack = new Stack<User>(new List<User>()
         {
             new User
             {
@@ -84,7 +84,7 @@ class Program
         });
         IPoppable<User> popable = stack;
         Console.WriteLine(popable.Pop().ToString());
-        stack.Print();
+        stack.Print();*/
 
     }
 
