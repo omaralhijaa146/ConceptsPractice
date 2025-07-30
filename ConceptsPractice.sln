@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPPartialTypes", "OOPParti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPStructs", "OOPStructs\OOPStructs.csproj", "{C80968CC-D542-4BF2-9457-807D52742606}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPEnums", "OOPEnums\OOPEnums.csproj", "{F80ECAF3-3E7F-49C1-858F-EB5F4F595ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPInterfaces", "OOPInterfaces\OOPInterfaces.csproj", "{8AB022E2-BCEA-4C17-B8AE-C8E9D0E1D72D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{C80968CC-D542-4BF2-9457-807D52742606}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C80968CC-D542-4BF2-9457-807D52742606}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C80968CC-D542-4BF2-9457-807D52742606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80ECAF3-3E7F-49C1-858F-EB5F4F595ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80ECAF3-3E7F-49C1-858F-EB5F4F595ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80ECAF3-3E7F-49C1-858F-EB5F4F595ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80ECAF3-3E7F-49C1-858F-EB5F4F595ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB022E2-BCEA-4C17-B8AE-C8E9D0E1D72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB022E2-BCEA-4C17-B8AE-C8E9D0E1D72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB022E2-BCEA-4C17-B8AE-C8E9D0E1D72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB022E2-BCEA-4C17-B8AE-C8E9D0E1D72D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

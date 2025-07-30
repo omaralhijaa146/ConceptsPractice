@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\bin\Debug\net8.0\OOPEnums.exe
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\bin\Debug\net8.0\OOPEnums.deps.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\bin\Debug\net8.0\OOPEnums.runtimeconfig.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\bin\Debug\net8.0\OOPEnums.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\bin\Debug\net8.0\OOPEnums.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\obj\Debug\net8.0\OOPEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\obj\Debug\net8.0\OOPEnums.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\obj\Debug\net8.0\OOPEnums.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\obj\Debug\net8.0\OOPEnums.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\obj\Debug\net8.0\OOPEnums.sourcelink.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\obj\Debug\net8.0\OOPEnums.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\obj\Debug\net8.0\refint\OOPEnums.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\obj\Debug\net8.0\OOPEnums.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\obj\Debug\net8.0\OOPEnums.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEnums\obj\Debug\net8.0\ref\OOPEnums.dll

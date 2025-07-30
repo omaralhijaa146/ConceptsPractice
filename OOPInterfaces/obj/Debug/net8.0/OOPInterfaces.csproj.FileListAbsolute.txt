@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\bin\Debug\net8.0\OOPInterfaces.exe
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\bin\Debug\net8.0\OOPInterfaces.deps.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\bin\Debug\net8.0\OOPInterfaces.runtimeconfig.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\bin\Debug\net8.0\OOPInterfaces.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\bin\Debug\net8.0\OOPInterfaces.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\obj\Debug\net8.0\OOPInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\obj\Debug\net8.0\OOPInterfaces.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\obj\Debug\net8.0\OOPInterfaces.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\obj\Debug\net8.0\OOPInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\obj\Debug\net8.0\OOPInterfaces.sourcelink.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\obj\Debug\net8.0\OOPInterfaces.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\obj\Debug\net8.0\refint\OOPInterfaces.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\obj\Debug\net8.0\OOPInterfaces.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\obj\Debug\net8.0\OOPInterfaces.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPInterfaces\obj\Debug\net8.0\ref\OOPInterfaces.dll

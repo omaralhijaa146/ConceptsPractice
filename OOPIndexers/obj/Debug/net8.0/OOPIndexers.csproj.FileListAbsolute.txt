@@ -12,3 +12,4 @@ C:\Users\User\RiderProjects\ConceptsPractice\OOPIndexers\obj\Debug\net8.0\refint
 C:\Users\User\RiderProjects\ConceptsPractice\OOPIndexers\obj\Debug\net8.0\OOPIndexers.pdb
 C:\Users\User\RiderProjects\ConceptsPractice\OOPIndexers\obj\Debug\net8.0\OOPIndexers.genruntimeconfig.cache
 C:\Users\User\RiderProjects\ConceptsPractice\OOPIndexers\obj\Debug\net8.0\ref\OOPIndexers.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPIndexers\obj\Debug\net8.0\OOPIndexers.sourcelink.json
