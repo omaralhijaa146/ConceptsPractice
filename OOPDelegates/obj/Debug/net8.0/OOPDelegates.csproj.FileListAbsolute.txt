@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\bin\Debug\net8.0\OOPDelegates.exe
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\bin\Debug\net8.0\OOPDelegates.deps.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\bin\Debug\net8.0\OOPDelegates.runtimeconfig.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\bin\Debug\net8.0\OOPDelegates.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\bin\Debug\net8.0\OOPDelegates.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\obj\Debug\net8.0\OOPDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\obj\Debug\net8.0\OOPDelegates.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\obj\Debug\net8.0\OOPDelegates.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\obj\Debug\net8.0\OOPDelegates.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\obj\Debug\net8.0\OOPDelegates.sourcelink.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\obj\Debug\net8.0\OOPDelegates.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\obj\Debug\net8.0\refint\OOPDelegates.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\obj\Debug\net8.0\OOPDelegates.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\obj\Debug\net8.0\OOPDelegates.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPDelegates\obj\Debug\net8.0\ref\OOPDelegates.dll

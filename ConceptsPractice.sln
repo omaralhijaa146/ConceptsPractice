@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPEvents", "OOPEvents\OOPE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPStandardEventPattern", "OOPStandardEventPattern\OOPStandardEventPattern.csproj", "{686A1499-C620-4653-BFF5-E429E640EA7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPDelegates", "OOPDelegates\OOPDelegates.csproj", "{2335361B-749D-49E5-B713-4AFA778B308E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{686A1499-C620-4653-BFF5-E429E640EA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{686A1499-C620-4653-BFF5-E429E640EA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{686A1499-C620-4653-BFF5-E429E640EA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2335361B-749D-49E5-B713-4AFA778B308E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2335361B-749D-49E5-B713-4AFA778B308E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2335361B-749D-49E5-B713-4AFA778B308E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2335361B-749D-49E5-B713-4AFA778B308E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
