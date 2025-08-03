@@ -9,7 +9,7 @@ class Program
         var human = new Human("Omar", 20, () => humanThinking);
         human.DisplayHumanProperties();
         
-        human.AddIdeaInHumanBrain("Eat heathy food");
+        human.AddIdeaInHumanBrain("Eat healthy food");
         human.AddIdeaInHumanBrain("Work");
         human.AddIdeaInHumanBrain("Pray");
         human.DisplayHumanProperties();

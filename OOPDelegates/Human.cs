@@ -18,7 +18,12 @@ public class Human
         Name = name;
         Age = age;
         HumanThinking = humanThinking;
-        IdeaInHumanBrain = (idea) => _ideasInHumanBrain.Add(idea);
+        IdeaInHumanBrain = AddIdea;
+    }
+
+    private void AddIdea(object ideaInHumanBrain)
+    {
+        _ideasInHumanBrain.Add((string) ideaInHumanBrain);
     }
 
     public void DisplayHumanProperties()
