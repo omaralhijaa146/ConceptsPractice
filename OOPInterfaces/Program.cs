@@ -6,11 +6,14 @@ class Program
 {
     static void Main(string[] args)
     {
+        
+
+
         /*// ***********************************************
         // using the implicit interface implementation repo
         var genericRepo = new GenericRepo<User>(SeedUsers());
         genericRepo.Print();
-        
+
         genericRepo.Set(new User
         {
             Id = 5,
@@ -19,11 +22,11 @@ class Program
             Address = "N/A",
             PhoneNumber = "4445556667"
         });
-        
+
         genericRepo.Print();
-        
+
         var userRepo = new UserRepo(SeedUsers());
-        
+
         userRepo.Print();
         userRepo.Set(new User
         {
@@ -41,8 +44,8 @@ class Program
         //userRepo.Print();
         //((IPrintable)userRepo).Print();
         //***********************************************/
-        
-        
+
+
         /*// using the virtual implementation
 
         var userRepoOverrideGeneric = new UserRepoOverridesGeneric(SeedUsers());
@@ -55,11 +58,11 @@ class Program
             LastName = "Ibraheem",
             PhoneNumber = "0798772695"
         });
-        
+
         ((IGenericRepo<User>)userRepoOverrideGeneric).Print();
         ((GenericRepoAllowOverriding<User>)userRepoOverrideGeneric).Print();
         userRepoOverrideGeneric.Print();*/
-        
+
         //Covariance and Contravariance
 
         /*var stack = new Stack<User>(new List<User>()
@@ -80,7 +83,7 @@ class Program
             FirstName = "John",
             LastName = "Doe",
             PhoneNumber = "0888888888",
-            Address = "123 Main St", 
+            Address = "123 Main St",
         });
         IPoppable<User> popable = stack;
         Console.WriteLine(popable.Pop().ToString());

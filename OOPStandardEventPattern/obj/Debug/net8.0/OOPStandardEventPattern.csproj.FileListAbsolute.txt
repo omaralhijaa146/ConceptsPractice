@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\bin\Debug\net8.0\OOPStandardEventPattern.exe
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\bin\Debug\net8.0\OOPStandardEventPattern.deps.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\bin\Debug\net8.0\OOPStandardEventPattern.runtimeconfig.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\bin\Debug\net8.0\OOPStandardEventPattern.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\bin\Debug\net8.0\OOPStandardEventPattern.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\obj\Debug\net8.0\OOPStandardEventPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\obj\Debug\net8.0\OOPStandardEventPattern.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\obj\Debug\net8.0\OOPStandardEventPattern.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\obj\Debug\net8.0\OOPStandardEventPattern.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\obj\Debug\net8.0\OOPStandardEventPattern.sourcelink.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\obj\Debug\net8.0\OOPStandardEventPattern.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\obj\Debug\net8.0\refint\OOPStandardEventPattern.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\obj\Debug\net8.0\OOPStandardEventPattern.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\obj\Debug\net8.0\OOPStandardEventPattern.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPStandardEventPattern\obj\Debug\net8.0\ref\OOPStandardEventPattern.dll
