@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\bin\Debug\net8.0\OOPEvents.exe
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\bin\Debug\net8.0\OOPEvents.deps.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\bin\Debug\net8.0\OOPEvents.runtimeconfig.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\bin\Debug\net8.0\OOPEvents.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\bin\Debug\net8.0\OOPEvents.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\obj\Debug\net8.0\OOPEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\obj\Debug\net8.0\OOPEvents.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\obj\Debug\net8.0\OOPEvents.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\obj\Debug\net8.0\OOPEvents.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\obj\Debug\net8.0\OOPEvents.sourcelink.json
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\obj\Debug\net8.0\OOPEvents.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\obj\Debug\net8.0\refint\OOPEvents.dll
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\obj\Debug\net8.0\OOPEvents.pdb
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\obj\Debug\net8.0\OOPEvents.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ConceptsPractice\OOPEvents\obj\Debug\net8.0\ref\OOPEvents.dll
