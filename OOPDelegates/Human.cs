@@ -5,13 +5,20 @@ public class Human
     protected string Name { get; set; }
     protected int Age { get; set; }
     
-    protected Func<string>  HumanThinking;
+    private List<string> _ideasInHumanBrain = new List<string>();
+    
+    protected Func<object>  HumanThinking;
 
-    public Human(string name, int age, Func<string> humanThinking)
+    protected Action<string> IdeaInHumanBrain;
+
+    
+    
+    public Human(string name, int age, Func<object> humanThinking)
     {
         Name = name;
         Age = age;
         HumanThinking = humanThinking;
+        IdeaInHumanBrain = (idea) => _ideasInHumanBrain.Add(idea);
     }
 
     public void DisplayHumanProperties()
@@ -27,7 +34,13 @@ public class Human
         Console.WriteLine($"Human name => {Name}");
         Console.WriteLine($"Human age => {Age}");
         Console.WriteLine($"Human thinking => {HumanThinking()}");
+        Console.WriteLine($"Human ideas => {string.Join("; ",_ideasInHumanBrain)}");
     }
-
+    
+    public void AddIdeaInHumanBrain(string ideaInHumanBrain)
+    {
+        IdeaInHumanBrain(ideaInHumanBrain);
+        Console.WriteLine("Added Successfully");
+    }
 
 }
